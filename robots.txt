@@ -16,4 +16,4 @@ Allow: /
 User-agent: SearchGPT
 Allow: /
 
-Sitemap: https://austinfoundationrepair.com/sitemap.xml
+Sitemap: https://foundationaustin.com/sitemap.xml
